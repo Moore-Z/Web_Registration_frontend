@@ -16,3 +16,9 @@ What I did:
                          var flag = reg.test(tel);
                          
   4.document.getElementById("tel_err").style.display = 'none';
+  
+  
+  
+  
+  
+![Capture](https://user-images.githubusercontent.com/39816436/182076494-143d15ff-0e60-4496-b37f-ed2f085274b7.PNG)
